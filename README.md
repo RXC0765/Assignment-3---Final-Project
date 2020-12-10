@@ -1,6 +1,19 @@
-# Assignment-3 Final-Project: A Link Up Game
-This program is a GUI game application created by Python called Link Up.  
-How to Play:  
+# Assignment-3 Final-Project: Link Up Game  
+## Introductions  
+This program is a GUI game application created by Python called Link Up. The player needs to find all the same Pokemon images that can be connected in pairs and click on them to clear them. When all the images are cleared, the player wins.  
+## Install  
+This project uses pygame package. Check if you have locally installed pygame in your console.  
+> -m pip install -U pygame --user  
+## Classes  
+Main: Main method  
+Map: Build map of the game  
+Scan: The algorithm of scanning the location of images player clicked  
+Check: Check if a pair of images can be cleared  
+ImageButton: Build image button  
+Settings: Set game title, backgrond color, screen size and game size  
+## Maintainer  
+@RXC0765  
+## How to Play  
 When game starts, 24 pairs of Pokemon images are shuffled into the screen.   
 ![avatar](https://github.com/RXC0765/Assignment-3---Final-Project/blob/main/images/1.png)
 The player needs to find and click all the same Pokemon images that can be connected in pairs. Every time a pair is clicked, they will disappear.  
