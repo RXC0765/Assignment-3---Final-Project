@@ -1,2 +1,6 @@
-# Assignment-3---Final-Project
-Python and Applications to Business Analytics II Final Project
+# Assignment-3 Final-Project: A Link Up Game
+This program is a GUI game application created by Python called Link Up.
+Rules:
+When game starts, 24 pairs of Pokemon images are shuffled into the screen. 
+
+The player needs to find all the same Pokemon images that can be connected in pairs. Every time a pair is found, they will disappear. When all images are eliminated, the player wins.
