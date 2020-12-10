@@ -1,5 +1,5 @@
 # Assignment-3 Final-Project: A Link Up Game
-This program is a GUI game application created by Python caimageslled Link Up.  
+This program is a GUI game application created by Python called Link Up.  
 Rules:  
 When game starts, 24 pairs of Pokemon images are shuffled into the screen.   
 ![avatar](https://github.com/RXC0765/Assignment-3---Final-Project/blob/main/images/1.png)
